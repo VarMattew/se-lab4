@@ -1,0 +1,3 @@
+# A GT4500 torpedóival lehet tüzelni - Ha az elsődleges tároló üres, a másodlagosat használja
+GT4500,0,0,10,0
+TORPEDO,SINGLE

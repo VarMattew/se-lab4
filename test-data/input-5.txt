@@ -1,0 +1,4 @@
+# A GT4500 torpedóival lehet tüzelni  - Ha az egyik tároló hibát jelez, a másik nem tüzel
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
