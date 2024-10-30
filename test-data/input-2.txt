@@ -1,0 +1,3 @@
+# A GT4500 torpedóival lehet tüzelni mert nincs torpedó
+GT4500,0,0,0,0
+TORPEDO,SINGLE
